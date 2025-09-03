@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Computer Grapics\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4AF7BF-082C-4734-B3B8-10685BE5D1E4}|Project1.vcxproj|C:\\Computer Grapics\\Project1\\W1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E4AF7BF-082C-4734-B3B8-10685BE5D1E4}|Project1.vcxproj|solutionrelative:W1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "W1.cpp",
+              "DocumentMoniker": "C:\\Computer Grapics\\Project1\\W1.cpp",
+              "RelativeDocumentMoniker": "W1.cpp",
+              "ToolTip": "C:\\Computer Grapics\\Project1\\W1.cpp",
+              "RelativeToolTip": "W1.cpp",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwv2oAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-03T02:35:20.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
